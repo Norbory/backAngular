@@ -61,5 +61,5 @@ Recordar que esta es la versión .Net 8 <br>
 ## Dedicatoria
 
 Este repositorio va dirigido a todos aquellos por los que programo y al igual que yo quieren seguir aprendiendo.<br>
-Espero allanarles el camino para que puedan entrar a este mundo sin miedo.<br>
+Espero allanarles la casa como a Dina para que puedan entrar a este mundo sin miedo.<br>
 Si existe un problema seguramente se puede codificar.
